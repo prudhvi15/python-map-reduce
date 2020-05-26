@@ -53,5 +53,5 @@ cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata)
 
 ## Repository
-
-- [https://github.com/prudhvi15/python-map-reduce](https://github.com/prudhvi15/python-map-reduce)
+- Forked from [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
+- My repo [https://github.com/prudhvi15/python-map-reduce](https://github.com/prudhvi15/python-map-reduce)
